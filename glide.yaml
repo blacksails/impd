@@ -1,0 +1,3 @@
+package: github.com/blacksails/impd
+import:
+- package: github.com/blacksails/pdevent
